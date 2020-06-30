@@ -12,16 +12,11 @@ In order to control a rover, NASA sends a simple string of letters. The possible
 current spot. 'M' means move forward one grid point, and maintain the same heading.
 Assume that the square directly North from (x, y) is (x, y+1).
 
-## Installation
-
-TODO: Describe the installation process
-
 ## Usage
-
 Open solution in Visual Studio.
 Set MarsRover project as start up project
 Press F5
----
+
 
 Input:<br />
 The first line of input is the upper-right coordinates of the plateau, the lower-left coordinates are
